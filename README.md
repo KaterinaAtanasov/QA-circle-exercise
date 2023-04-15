@@ -1,1 +1,1 @@
-# QA-circle-exercise
+# QA-circle-exercises
